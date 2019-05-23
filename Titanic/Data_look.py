@@ -1,4 +1,4 @@
-import numpy.matplotlib as plt
+import matplotlib as plt
 import pandas as pd
 df = pd.read_csv('train.csv')
 
